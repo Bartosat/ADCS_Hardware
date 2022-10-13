@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0051-2
+Removed Pin From Net: NetName=+5 Pin=Bno_U_BNO0051-3
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0051-5
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0051-6
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0051-17
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0051-18
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0051-25
+Removed Pin From Net: NetName=+5 Pin=Bno_U_BNO0051-28
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0052-2
+Removed Pin From Net: NetName=+5 Pin=Bno_U_BNO0052-3
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0052-5
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0052-6
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0052-17
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0052-18
+Removed Pin From Net: NetName=GND Pin=Bno_U_BNO0052-25
+Removed Pin From Net: NetName=+5 Pin=Bno_U_BNO0052-28
+Removed Pin From Net: NetName=GND Pin=C1_U_BNO0051-2
+Removed Pin From Net: NetName=GND Pin=C1_U_BNO0052-2
+Removed Pin From Net: NetName=GND Pin=C2_U_BNO0051-1
+Removed Pin From Net: NetName=GND Pin=C2_U_BNO0052-1
+Removed Pin From Net: NetName=GND Pin=C3_U_BNO0051-1
+Removed Pin From Net: NetName=GND Pin=C3_U_BNO0052-1
+Removed Pin From Net: NetName=+5 Pin=R1_U_BNO0051-2
+Removed Pin From Net: NetName=+5 Pin=R1_U_BNO0052-2
+Removed Pin From Net: NetName=+5 Pin=R2_U_BNO0051-2
+Removed Pin From Net: NetName=+5 Pin=R2_U_BNO0052-2
+Change Component Designator: OldDesignator=Bno_U_BNO0050 NewDesignator=Bno
+Change Component Designator: OldDesignator=C1_U_BNO0050 NewDesignator=C1
+Change Component Designator: OldDesignator=C2_U_BNO0050 NewDesignator=C2
+Change Component Designator: OldDesignator=C3_U_BNO0050 NewDesignator=C3
+Change Component Designator: OldDesignator=R1_U_BNO0050 NewDesignator=R1
+Change Component Designator: OldDesignator=R2_U_BNO0050 NewDesignator=R2
+Change Component Designator: OldDesignator=Y?_U_BNO0050 NewDesignator=Y?
+Change Net Name : Old Net Name=NetBno_U_BNO0050_4 New Net Name=NetBno_4
+Change Net Name : Old Net Name=NetBno_U_BNO0050_9 New Net Name=NetBno_9
+Change Net Name : Old Net Name=NetBno_U_BNO0050_11 New Net Name=NetBno_11
+Change Net Name : Old Net Name=NetBno_U_BNO0050_14 New Net Name=NetBno_14
+Change Net Name : Old Net Name=NetBno_U_BNO0050_26 New Net Name=NetBno_26
+Change Net Name : Old Net Name=Xin32_U_BNO0050 New Net Name=Xin32
+Added Pin To Net: NetName=NetBno_19 Pin=Bno-19
+Added Net: Name=NetBno_19
+Added Pin To Net: NetName=NetBno_20 Pin=Bno-20
+Added Net: Name=NetBno_20
